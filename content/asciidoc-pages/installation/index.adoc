@@ -1,6 +1,6 @@
 = Install Eclipse Temurin(TM)
 :page-authors: gdams, karianna, tellison
-
+español
 link:/temurin/releases[Eclipse Temurin] is available for download in multiple
 installation package formats:
 
